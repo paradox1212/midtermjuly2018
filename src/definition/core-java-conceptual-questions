@@ -6,13 +6,13 @@ What jdk contains or composed of and define each components? JDK is a superset o
 What is IDE?  An integrated development environment (IDE) is a software suite that consolidates the basic tools developers need to write and test software.
 What are the IDEs available in the market to support java? NetBeans IntelliJ IDEA Eclipse
 Explain the entire java life cycle.
-what is class?
-What is object?
-What is the entry point of an application?
-Why main is static?
-Which class is the superclass of all classes?
-What is difference between path and classpath variables?
-What is the difference between an Interface and Abstract class?
+what is class?  a set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality.
+What is object? Object (computer science) ... In the class-based object-oriented programming paradigm, object refers to a particular instance of a class,
+What is the entry point of an application? In C, C++, D, Rust and Kotlin programs this is a function named main
+Why main is static?  This is neccesary because main() is called by the JVM before any objects are made. Since it is static it can be directly invoked via the class. Similarly, we use static sometime for user defined methods so that we need not to make objects.
+Which class is the superclass of all classes? ava.lang.object is a superclass of all class. The Object class defined in the java.lang package is called as the superclass for each and every class in Java.
+What is difference between path and classpath variables? Path is an environment variable which is used by the operating system to find the executables. Classpath is an environment variable which is used by the Java compiler to find the path, of classes.ie in J2EE
+What is the difference between an Interface and Abstract class? .Main difference is methods of a Java interface are implicitly abstract and cannot have implementations. A Java abstract class can have instance methods that implements a default behavior. 2.Variables declared in a Java interface is by default final. An abstract class may contain non-final variables.
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
 what is Access Specifier?
 What is OOP ? Define each feature of java OOP.
