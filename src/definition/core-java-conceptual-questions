@@ -1,10 +1,10 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
-What jdk contains or composed of and define each components?
-What is IDE?
-What are the IDEs available in the market to support java?
+A.  A programming language is a formal language which comprises a set of instructions used to produce various kinds of output.
+What jdk contains or composed of and define each components? JDK is a superset of JRE, and contains everything that is in JRE, plus tools such as the compilers and debuggers necessary for developing applets and applications.
+What is IDE?  An integrated development environment (IDE) is a software suite that consolidates the basic tools developers need to write and test software.
+What are the IDEs available in the market to support java? NetBeans IntelliJ IDEA Eclipse
 Explain the entire java life cycle.
 what is class?
 What is object?
