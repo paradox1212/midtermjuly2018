@@ -13,9 +13,9 @@ Why main is static?  This is neccesary because main() is called by the JVM befor
 Which class is the superclass of all classes? ava.lang.object is a superclass of all class. The Object class defined in the java.lang package is called as the superclass for each and every class in Java.
 What is difference between path and classpath variables? Path is an environment variable which is used by the operating system to find the executables. Classpath is an environment variable which is used by the Java compiler to find the path, of classes.ie in J2EE
 What is the difference between an Interface and Abstract class? .Main difference is methods of a Java interface are implicitly abstract and cannot have implementations. A Java abstract class can have instance methods that implements a default behavior. 2.Variables declared in a Java interface is by default final. An abstract class may contain non-final variables.
-Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
-what is Access Specifier?
-What is OOP ? Define each feature of java OOP.
+Can you make an Object from an Interface and Abstract class ? if not how do you use it ? You cannot create an object of abstract class or interface since they are incomplete class (interface is not even considered as a class.) .
+what is Access Specifier? An access specifier is a defining code element that can determine which elements of a program are allowed to access a specific variable or other piece of data.
+What is OOP ? Define each feature of java OOP.  OOP concepts in Java are the main ideas behind Java's Object Oriented Programming. They are an abstraction, encapsulation, inheritance, and polymorphism.
 What is Java Package and which package is imported by default?
 What is API? Name list of API that you have used so far.
 Does java support multiple inheritance, explain why or why not?
